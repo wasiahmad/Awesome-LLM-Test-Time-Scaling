@@ -10,7 +10,7 @@
 <h1 align="center">Awesome LLM Test-Time Scaling</h1>
 
 <p align="center">
-    <b> Curated collection of papers and resources on enhancing LLM performance through increased test-time computation.</b>
+    <b> Curated collection of papers and resources on enhancing LLM performance through scaling test-time compute.</b>
 </p>
 
 <details>
