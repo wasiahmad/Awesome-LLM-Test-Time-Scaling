@@ -56,19 +56,24 @@
 
    *Jianing Qi, Hao Tang, Zhigang Zhu.* Preprint'24
 
-2. **[Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning.](https://arxiv.org/abs/2412.09078)**
+1. **[Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning.](https://arxiv.org/abs/2412.09078)**
 
    *Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang.* Preprint'24
 
 ### 2025
 
+1. **[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393)**
+
+   *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto.* Preprint'25
+
 1. **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling.](https://arxiv.org/abs/2501.19306)**
    
    *Jiefeng Chen, Jie Ren, Xinyun Chen, Chengrun Yang, Ruoxi Sun, Sercan Ö Arık.* Preprint'25
 
-2. **[CodeMonkeys: Scaling Test-Time Compute for Software Engineering.](https://arxiv.org/abs/2501.14723)**
+1. **[CodeMonkeys: Scaling Test-Time Compute for Software Engineering.](https://arxiv.org/abs/2501.14723)** [[code](https://github.com/ScalingIntelligence/codemonkeys)]
 
    *Ryan Ehrlich, Bradley Brown, Jordan Juravsky, Ronald Clark, Christopher Ré, Azalia Mirhoseini.* Preprint'25
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -80,6 +85,7 @@
 ## Other Useful Resources
 
 - **[Blogpost] [Scaling Time-Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)**
+- **[Search and Learn](https://github.com/huggingface/search-and-learn)** Recipes to scale inference-time compute of open models
 
 
 ## Other Awesome Lists
