@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    <img src="assets/test-time-scaling.svg" width="90%" style="align:center;"/>
+    <img src="assets/test-time-scaling.png" width="90%" style="align:center;"/>
 </p>
 
 <h1 align="center">Awesome LLM Test-Time Scaling</h1>
