@@ -29,12 +29,24 @@
 ## Survey
 
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 ## Analysis
 
 1. **[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314)**
 
     *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar.* Preprint'24
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 
 ## Technique
 
@@ -44,13 +56,30 @@
 
    *Jianing Qi, Hao Tang, Zhigang Zhu.* Preprint'24
 
-2. **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling.](https://arxiv.org/abs/2501.19306)**
+2. **[Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning.](https://arxiv.org/abs/2412.09078)**
+
+   *Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang.* Preprint'24
+
+### 2025
+
+1. **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling.](https://arxiv.org/abs/2501.19306)**
    
    *Jiefeng Chen, Jie Ren, Xinyun Chen, Chengrun Yang, Ruoxi Sun, Sercan Ö Arık.* Preprint'25
+
+2. **[CodeMonkeys: Scaling Test-Time Compute for Software Engineering.](https://arxiv.org/abs/2501.14723)**
+
+   *Ryan Ehrlich, Bradley Brown, Jordan Juravsky, Ronald Clark, Christopher Ré, Azalia Mirhoseini.* Preprint'25
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 ## Other Useful Resources
 
+- **[Blogpost] [Scaling Time-Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)**
 
 
 ## Other Awesome Lists
