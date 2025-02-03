@@ -10,7 +10,7 @@
 <h1 align="center">Awesome LLM Test-Time Scaling</h1>
 
 <p align="center">
-    <b> Curated collection of papers and resources on enhancing LLM performance through scaling test-time compute.</b>
+    <b> Collection of papers and resources on enhancing LLM performance by scaling test-time compute.</b>
 </p>
 
 <details>
@@ -36,6 +36,11 @@
 
 ## Technique
 
+### 2024
+
+1. **[VerifierQ: Enhancing LLM Test Time Compute with Q-Learning-based Verifiers.](https://arxiv.org/abs/2410.08048)**
+
+    *Jianing Qi, Hao Tang, Zhigang Zhu.* Preprint'24
 
 
 ## Other Useful Resources
