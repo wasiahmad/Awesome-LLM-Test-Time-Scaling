@@ -37,9 +37,18 @@
 
 ## Analysis
 
+### 2025
+
+1. **[Trading Inference-Time Compute for Adversarial Robustness.](https://arxiv.org/abs/2501.18841)**
+
+   *Wojciech Zaremba, Evgenia Nitishinskaya, Boaz Barak, Stephanie Lin, Sam Toyer, Yaodong Yu, Rachel Dias, Eric Wallace, Kai Xiao, Johannes Heidecke, Amelia Glaese.* Preprint'25
+
+### 2024
+
 1. **[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314)**
 
     *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar.* Preprint'24
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -60,11 +69,20 @@
 
    *Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang.* Preprint'24
 
+1. **[Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation.](https://arxiv.org/abs/2410.02725)**
+
+   *Rohin Manvi, Anikait Singh, Stefano Ermon.* Preprint'24
+
+
 ### 2025
 
 1. **[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393)**
 
    *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto.* Preprint'25
+
+1. **[Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps.](https://arxiv.org/abs/2501.09732)**
+
+   *Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su, Mingda Zhang, Xuan Yang, Yandong Li, Tommi Jaakkola, Xuhui Jia, Saining Xie.* Preprint'25
 
 1. **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling.](https://arxiv.org/abs/2501.19306)**
    
