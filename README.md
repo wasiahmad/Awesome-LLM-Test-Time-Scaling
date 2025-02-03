@@ -32,7 +32,9 @@
 
 ## Analysis
 
+1. **[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314)**
 
+    *Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar.* Preprint'24
 
 ## Technique
 
@@ -40,7 +42,11 @@
 
 1. **[VerifierQ: Enhancing LLM Test Time Compute with Q-Learning-based Verifiers.](https://arxiv.org/abs/2410.08048)**
 
-    *Jianing Qi, Hao Tang, Zhigang Zhu.* Preprint'24
+   *Jianing Qi, Hao Tang, Zhigang Zhu.* Preprint'24
+
+2. **[SETS: Leveraging Self-Verification and Self-Correction for Improved Test-Time Scaling.](https://arxiv.org/abs/2501.19306)**
+   
+   *Jiefeng Chen, Jie Ren, Xinyun Chen, Chengrun Yang, Ruoxi Sun, Sercan Ö Arık.* Preprint'25
 
 
 ## Other Useful Resources
