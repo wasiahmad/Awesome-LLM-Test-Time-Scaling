@@ -7,10 +7,6 @@
   <a href="https://github.com/wasiahmad/Awesome-LLM-Test-Time-Scaling/blob/main/LICENSE"><img src="https://img.shields.io/github/license/wasiahmad/Awesome-LLM-Test-Time-Scaling?style=for-the-badge" alt="MIT License"></a>
 </div>
 
-<p align="center">
-    <img src="assets/test-time-scaling.png" width="90%" style="align:center;"/>
-</p>
-
 <h1 align="center">Awesome LLM Test-Time Scaling</h1>
 
 <p align="center">
